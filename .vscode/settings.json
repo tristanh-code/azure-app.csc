@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f3c50558-6a0e-41a2-b449-18085e8b0e85/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Tristan-azure-demo-cheese-finder",
+    "appService.deploySubpath": "."
+}
